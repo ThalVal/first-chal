@@ -14,7 +14,7 @@ N/A
 
 The Horiseon webpage was made to be easily accessible by viewers. You can clearly see what the marketing company offers ranging from management and guided instructions for peak search results to brand awareness. 
 
-<img src=./assets/images/thalval.github.io_first-chal_(1).png>
+<img src="./assets/images/thalval.github.io_first-chal_(1).png">
 
 ## Credits
 
